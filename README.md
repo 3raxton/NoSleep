@@ -18,8 +18,8 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 - 🎉 Open source
 - 🍁 If you like the No Sleep theme please consider <a href="https://www.patreon.com/3raxton" target="_blank"> supporting me on Patreon</a>
 
-![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NS1.png?raw=true)
-![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NS2.png?raw=true)
+![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NoSleep/NS1.png?raw=true)
+![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NoSleep/NS2.png?raw=true)
 
 ## How to make No Sleep your Spotify theme
 
