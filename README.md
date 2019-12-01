@@ -52,7 +52,7 @@ Want to add something that's missing to the theme or have an idea? <a href="http
 
 ## Support
 
-Support [me on Patreon](https://patreon.com/3raxton) **to help the development of the No Sleep theme stay strong **. I create &amp; work on open source projects such as the No Sleep theme for free. If you or your company depend on this project, it makes sense to donate in order to help ensure that the project is maintained.
+Support [me on Patreon](https://patreon.com/3raxton) **to help the development of the No Sleep theme stay strong**. I create &amp; work on open source projects such as the No Sleep theme for free. If you or your company depend on this project, it makes sense to donate in order to help ensure that the project is maintained.
 
 ## License
 Licensed under the [MIT License](https://3raxton.github.io/license) by [Braxton Huff](https://github.com/3raxton) 
