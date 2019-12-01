@@ -31,12 +31,14 @@ MacOS: ~/spicetify_data/Themes
 Windows: %userprofile%\.spicetify\Themes\
 Linux: $XDG_CONFIG_HOME/.config/spicetify/Themes/ or ~/.config/spicetify/Themes
   ```
+1. Unzip the ```NoSleep-master``` folder
+1. Rename the ```NoSleep-master``` folder to ```NoSleep```
 1. Drag the ```NoSleep``` folder into the spicetify-cli Themes folder
 2. Find your ```config.ini``` file within the spicetify folder
 3. Set the theme to ```NoSleep``` in the ```config.ini``` folder
 4. Set desired theme in your `config.ini`:
 ```ini
-[Setting]
+[Settings]
 ...
 current_theme = NoSleep
 ...
