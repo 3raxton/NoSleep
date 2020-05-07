@@ -61,4 +61,4 @@ Licensed under the [MIT License](https://3raxton.github.io/license) by [Braxton 
 
 ### **If there is any other problem, please refer to the <a href="hhttps://github.com/khanhas/spicetify-cli/wiki"  target="_blank">spicetify-cli wiki</a> to help troubleshoot your problem.**
 
-Hopefully the No Sleep theme helps improve your use of Mailspring and treats you well! Cheers!
+Hopefully the No Sleep theme helps improve your use of Spotifty and treats you well! Cheers!
