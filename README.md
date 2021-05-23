@@ -16,7 +16,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 - 😴 A fresher dark theme with a splash of red
 - 👀 Easy on the eyes
 - 🎉 Open source
-- 🍁 If you like the No Sleep theme please consider <a href="https://www.paypal.com/BraxtonHuff" target="_blank"> supporting me</a>
+- 🍁 If you like the No Sleep theme please consider <a href="http://paypal.me/braxtonhuff" target="_blank"> supporting me</a>
 
 ![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NoSleep/NS1.png?raw=true)
 ![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NoSleep/NS2.png?raw=true)
