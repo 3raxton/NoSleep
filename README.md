@@ -18,8 +18,8 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 - 🎉 Open source
 - 🤝 <b>This theme was an incredible challenge to port to the new version of Spotify.</b> If you rely on the No Sleep theme to enhance your Spotify experience, please consider <a href="http://paypal.me/braxtonhuff" target="_blank"> supporting me</a>
 
-![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NoSleep/NS1.png?raw=true)
-![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NoSleep/NS2.png?raw=true)
+![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NS1.png)
+![No Sleep](https://github.com/3raxton/NoSleep/blob/master/NS2.png)
 
 ## How to make No Sleep your Spotify theme
 1. [Install spicetify-cli using the instructions found here](https://github.com/khanhas/spicetify-cli/wiki/Installation)
