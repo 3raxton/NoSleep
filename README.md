@@ -51,6 +51,9 @@ current_theme = NoSleep
 ## Using Spicetify 1.2.1 or older?
 You can still use NoSleep! Check out [version 1.0 in the releases tab](https://github.com/3raxton/NoSleep/releases/tag/1.0). There you can download all the necessary files to install NoSleep to the older version of Spotify.
 
+## Using Spicetify 1.2.1 or newer?
+You can still use NoSleep! Check out [version 2.0 in the releases tab](https://github.com/3raxton/NoSleep/releases/tag/2.0). There you can download all the necessary files to install NoSleep to the newer version of Spotify.
+
 <br>
 
 ## Ideas
