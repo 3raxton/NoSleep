@@ -30,22 +30,21 @@ MacOS: ~/spicetify_data/Themes
 Windows: %userprofile%\.spicetify\Themes\
 Linux: $XDG_CONFIG_HOME/.config/spicetify/Themes/ or ~/.config/spicetify/Themes
   ```
-1. Drag the ```NoSleep``` folder into the spicetify-cli Themes folder
-2. Find your ```config-xpui.ini``` file within the spicetify folder
-3. Set the theme to ```NoSleep``` in the ```config-xpui.ini``` folder
-4. Set desired theme in your `config-xpui.ini`:
-```ini
+4. Drag the ```NoSleep``` folder into the spicetify-cli Themes folder
+5. Find your ```config-xpui.ini``` file within the spicetify folder
+6. Set the theme to ```NoSleep``` in the ```config-xpui.ini``` file
+
+```
 [Settings]
 ...
 current_theme = NoSleep
 ...
 ```
-5. Drag the ```NoSleep``` folder into the spicetify Themes folder
-6. Find your ```config-xpui.ini``` file within the spicetify folder
-7. Set the theme to ```NoSleep``` in the ```config-xpui.ini``` folder
-8. Apply your theme to Spotify by typing the following in Terminal:<br> ```spicetify update``` <br>```spicetify apply``` 
-9. spicetify-cli will apply the theme and restart Spotify 
-10. Try out the new theme and see if you like it! 🎉
+
+7. Apply your theme to Spotify by typing the following in Terminal:<br> ```spicetify update``` <br>```spicetify apply``` 
+8. spicetify-cli will apply the theme and restart Spotify 
+9. Try out the new theme and see if you like it
+10. You're done! 🎉
 
 <br>
 
